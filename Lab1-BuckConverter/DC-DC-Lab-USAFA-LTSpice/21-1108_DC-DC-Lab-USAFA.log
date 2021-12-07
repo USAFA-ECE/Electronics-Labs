@@ -1,0 +1,23 @@
+Circuit: * C:\Users\bball\OneDrive\Desktop\21-1108_DC-DC-Lab-USAFA\21-1108_DC-DC-Lab-USAFA.asc
+
+Limiting rise time of source v2 to 1e-006
+Limiting fall time of source v2 to 1e-006
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Nov 14 17:50:26 2021
+Total elapsed time: 0.491 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 93727
+traniter = 93721
+tranpoints = 24862
+accept = 18168
+rejected = 6694
+matrix size = 16
+fillins = 0
+solver = Normal
+Matrix Compiler1: 940 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 1.24 KB object code size  0.1/0.1/[0.1]
+
